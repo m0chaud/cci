@@ -13,6 +13,7 @@ import java.util.Scanner;
  * Initialize Deck
  * Distribute Card
  * Calculate Winner
+ * While loop in main method can be optimized with common method
  */
 public class Dealer {
 
