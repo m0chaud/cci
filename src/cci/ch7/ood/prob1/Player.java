@@ -31,7 +31,7 @@ public class Player {
 		System.out.println(" Player Name " + getName());
 		
 		for(Card card : getPlayerCard()){
-			System.out.println(card.getName() + " ---- " + card.getValue());
+			System.out.println("Card Name: " + card.getName() + " ---- Card Value:" + card.getValue());
 		}
 		
 		System.out.println(" ------ ");

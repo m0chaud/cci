@@ -94,7 +94,7 @@ public class Dealer {
 		}
 
 		System.out.println(" Winner Player Name " + winner.getName() + " ---- ID " + winner.getID());
-		System.out.println(" Max Card Print Value ");
+		System.out.println(" Max Card Print Value " + maxCardValue);
 	}
 
 	/**
